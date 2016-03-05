@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./worksjohnmilton06miltgoog_0013.png"; bbox 0 0 2956 4980; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 652 4584 923 4643">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 652 4584 923 4643">
+     <span class='ocr_line' id='line_1_1' title="bbox 652 4584 923 4621; baseline 0.007 -12"><span class='ocrx_word' id='word_1_1' title='bbox 652 4591 717 4621; x_wconf 63' lang='grc' dir='ltr'><strong>..ο</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 762 4584 923 4617; x_wconf 51' lang='grc' dir='ltr'><strong>ΗΜ.»</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 668 4614 921 4643; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 668 4614 869 4643; x_wconf 50' lang='lat' dir='ltr'><strong>..m-..u</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 917 4634 921 4642; x_wconf 77' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 616 4670 932 4826">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 616 4670 932 4826">
+     <span class='ocr_line' id='line_1_3' title="bbox 616 4670 754 4710; baseline -0.022 -12"><span class='ocrx_word' id='word_1_5' title='bbox 616 4670 626 4690; x_wconf 75' lang='lat'>0</span> <span class='ocrx_word' id='word_1_6' title='bbox 654 4672 710 4710; x_wconf 60' lang='grc' dir='ltr'><strong>..σο</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 744 4676 754 4695; x_wconf 74' lang='lat'>0</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 621 4702 760 4745; baseline 0.007 -24"><span class='ocrx_word' id='word_1_8' title='bbox 621 4702 760 4745; x_wconf 60' lang='grc' dir='ltr'><strong><em>...μοι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 628 4734 768 4765; baseline 0.014 -10"><span class='ocrx_word' id='word_1_9' title='bbox 628 4734 651 4756; x_wconf 64' lang='lat'><strong>0·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 687 4736 768 4765; x_wconf 64' lang='grc' dir='ltr'><strong>...Ο</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 636 4768 904 4794; baseline 0.019 -5"><span class='ocrx_word' id='word_1_11' title='bbox 636 4768 646 4789; x_wconf 97' lang='grc'><strong>0</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 679 4770 776 4794; x_wconf 81' lang='grc'><strong>00000</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 801 4772 852 4794; x_wconf 69' lang='grc' dir='ltr'><strong>ιι·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 880 4782 904 4794; x_wconf 61' lang='grc' dir='ltr'><strong>ι·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 636 4799 932 4826; baseline -0.003 -2"><span class='ocrx_word' id='word_1_15' title='bbox 636 4799 734 4824; x_wconf 67' lang='grc'><strong>..0.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 774 4801 876 4826; x_wconf 56' lang='lat'><strong>§00⁸5</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 908 4814 932 4823; x_wconf 67' lang='grc' dir='ltr'><strong>-ι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1482 4980">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1482 4980">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1482 4980; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1482 4980; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
